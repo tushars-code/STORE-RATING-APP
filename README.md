@@ -126,3 +126,16 @@ Test the consumer experience by following these steps:
 Log in using a **Store Owner** account created in Step 2 to verify data reporting:
 * **Analytics Dashboard:** View the **Average Rating** specifically for your assigned store.
 * **Customer Feedback:** Access a detailed table showing the specific customers who rated the store and their individual feedback.
+
+---
+### UI Output
+<img width="1919" height="977" alt="Screenshot 2026-02-05 210125" src="https://github.com/user-attachments/assets/62e21280-b546-4536-ad0d-69d76c4e9345" />
+<img width="1902" height="1067" alt="Screenshot 2026-02-05 210100" src="https://github.com/user-attachments/assets/d00acbf1-63d9-4d6c-876a-6b926e35b5dd" />
+<img width="1724" height="861" alt="Screenshot 2026-02-05 210045" src="https://github.com/user-attachments/assets/e536712d-c992-43c2-96ef-538ca0cd4bfd" />
+<img width="1906" height="1095" alt="Screenshot 2026-02-05 210018" src="https://github.com/user-attachments/assets/861211e9-e7dd-435f-8fa1-ac50042e745d" />
+<img width="1919" height="994" alt="Screenshot 2026-02-05 210114" src="https://github.com/user-attachments/assets/72ff6415-5273-4fc2-9d5b-1514f5bb921c" />
+
+
+
+
+
